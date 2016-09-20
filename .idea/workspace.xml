@@ -1,7 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6980d2b7-8df9-47f8-87a5-881af9a1ed0b" name="Default" comment="" />
+    <list default="true" id="6980d2b7-8df9-47f8-87a5-881af9a1ed0b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bash.exe.stackdump" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/estock.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/olook.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/outlook_edit.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/aqua.2016253.0740.gcoos.sst.png" afterPath="$PROJECT_DIR$/aqua.2016253.0740.gcoos.sst.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sqlite_test/test" afterPath="$PROJECT_DIR$/sqlite_test/test" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/core_python.iml" afterPath="$PROJECT_DIR$/.idea/core_python.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animalGtk.pyw" afterPath="$PROJECT_DIR$/animalGtk.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animalPmw.pyw" afterPath="$PROJECT_DIR$/animalPmw.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animalTix.pyw" afterPath="$PROJECT_DIR$/animalTix.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animalTtk3.pyw" afterPath="$PROJECT_DIR$/animalTtk3.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/animalWx.pyw" afterPath="$PROJECT_DIR$/animalWx.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookrank.py" afterPath="$PROJECT_DIR$/bookrank.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bookrank3CF.py" afterPath="$PROJECT_DIR$/bookrank3CF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/candy.py" afterPath="$PROJECT_DIR$/candy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/candy3.py" afterPath="$PROJECT_DIR$/candy3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/candy3.py.bak" afterPath="$PROJECT_DIR$/candy3.py.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/excel.pyw" afterPath="$PROJECT_DIR$/excel.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/getLatestFTP.py" afterPath="$PROJECT_DIR$/getLatestFTP.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/listdir.py" afterPath="$PROJECT_DIR$/listdir.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtfacfib.py" afterPath="$PROJECT_DIR$/mtfacfib.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepA.py" afterPath="$PROJECT_DIR$/mtsleepA.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepB.py" afterPath="$PROJECT_DIR$/mtsleepB.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepC.py" afterPath="$PROJECT_DIR$/mtsleepC.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepD.py" afterPath="$PROJECT_DIR$/mtsleepD.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepE.py" afterPath="$PROJECT_DIR$/mtsleepE.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepF.py" afterPath="$PROJECT_DIR$/mtsleepF.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mtsleepF.py.bak" afterPath="$PROJECT_DIR$/mtsleepF.py.bak" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/myThread.py" afterPath="$PROJECT_DIR$/myThread.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/onethr.py" afterPath="$PROJECT_DIR$/onethr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pfaGUI2.py" afterPath="$PROJECT_DIR$/pfaGUI2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ppoint.pyw" afterPath="$PROJECT_DIR$/ppoint.pyw" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/prodcons.py" afterPath="$PROJECT_DIR$/prodcons.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/retasklist.py" afterPath="$PROJECT_DIR$/retasklist.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tkhello1.py" afterPath="$PROJECT_DIR$/tkhello1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tkhello4.py" afterPath="$PROJECT_DIR$/tkhello4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tkhellow2.py" afterPath="$PROJECT_DIR$/tkhellow2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tkhellow3.py" afterPath="$PROJECT_DIR$/tkhellow3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tsTclnt3.py" afterPath="$PROJECT_DIR$/tsTclnt3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/tsTserv3.py" afterPath="$PROJECT_DIR$/tsTserv3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ushuffle_dbU.py" afterPath="$PROJECT_DIR$/ushuffle_dbU.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ushuffle_mongo.py" afterPath="$PROJECT_DIR$/ushuffle_mongo.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ushuffle_sad.py" afterPath="$PROJECT_DIR$/ushuffle_sad.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ushuffle_so.py" afterPath="$PROJECT_DIR$/ushuffle_so.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/word.pyw" afterPath="$PROJECT_DIR$/word.pyw" />
+    </list>
     <ignored path="core_python.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -15,6 +65,7 @@
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/core_python$listdir.coverage" NAME="listdir Coverage Results" MODIFIED="1473950321798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/core_python$olook_pyw.coverage" NAME="olook.pyw Coverage Results" MODIFIED="1474377386207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$tsTclnt3.coverage" NAME="tsTclnt3 Coverage Results" MODIFIED="1473367426426" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$animalTtk3_pyw.coverage" NAME="animalTtk3.pyw Coverage Results" MODIFIED="1474042479922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$get_slickdeals.coverage" NAME="get_slickdeals Coverage Results" MODIFIED="1474307638249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/desktop" />
@@ -26,6 +77,7 @@
     <SUITE FILE_PATH="coverage/core_python$ushuffle_sad.coverage" NAME="ushuffle_sad Coverage Results" MODIFIED="1474303071289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$excel_pyw.coverage" NAME="excel.pyw Coverage Results" MODIFIED="1474309873121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$mtfacfib.coverage" NAME="mtfacfib Coverage Results" MODIFIED="1473776033436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/core_python$outlook_edit_pyw.coverage" NAME="outlook_edit.pyw Coverage Results" MODIFIED="1474383494054" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$tkhello4.coverage" NAME="tkhello4 Coverage Results" MODIFIED="1473874973169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$ushuffle_so.coverage" NAME="ushuffle_so Coverage Results" MODIFIED="1474303930121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$word_pyw.coverage" NAME="word.pyw Coverage Results" MODIFIED="1474309926962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -35,7 +87,7 @@
     <SUITE FILE_PATH="coverage/core_python$mtsleepD.coverage" NAME="mtsleepD Coverage Results" MODIFIED="1473774052418" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$tkhello1.coverage" NAME="tkhello1 Coverage Results" MODIFIED="1473874381521" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$pfaGUI2.coverage" NAME="pfaGUI2 Coverage Results" MODIFIED="1473946950376" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/core_python$ppoint_pyw.coverage" NAME="ppoint.pyw Coverage Results" MODIFIED="1474310866068" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/core_python$ppoint_pyw.coverage" NAME="ppoint.pyw Coverage Results" MODIFIED="1474311466189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$ushuffle_dbU.coverage" NAME="ushuffle_dbU Coverage Results" MODIFIED="1474055347771" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$mtsleepF.coverage" NAME="mtsleepF Coverage Results" MODIFIED="1473781204136" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$candy.coverage" NAME="candy Coverage Results" MODIFIED="1473870728664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -46,8 +98,10 @@
     <SUITE FILE_PATH="coverage/core_python$tkhellow3.coverage" NAME="tkhellow3 Coverage Results" MODIFIED="1473874576270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$getLatestFTP.coverage" NAME="getLatestFTP Coverage Results" MODIFIED="1473429199678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$onethr.coverage" NAME="onethr Coverage Results" MODIFIED="1473707621875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/core_python$estock_pyw.coverage" NAME="estock.pyw Coverage Results" MODIFIED="1474378989323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$test_win32api.coverage" NAME="test_win32api Coverage Results" MODIFIED="1474307712908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Anaconda3/Lib/site-packages/win32/test" />
     <SUITE FILE_PATH="coverage/core_python$ComboBox_test.coverage" NAME="ComboBox_test Coverage Results" MODIFIED="1473965148315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Anaconda3/Lib/site-packages/Pmw/Pmw_2_0_1/tests" />
+    <SUITE FILE_PATH="coverage/core_python$default.coverage" NAME="default Coverage Results" MODIFIED="1474381687058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
     <SUITE FILE_PATH="coverage/core_python$animalTix_pyw.coverage" NAME="animalTix.pyw Coverage Results" MODIFIED="1473962877353" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/core_python$animalWx_pyw.coverage" NAME="animalWx.pyw Coverage Results" MODIFIED="1474035668627" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -63,7 +117,7 @@
       <file leaf-file-name="ushuffle_so.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ushuffle_so.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
+            <state relative-caret-position="2160">
               <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
               <folding>
                 <element signature="e#23#63#0" expanded="true" />
@@ -75,7 +129,7 @@
       <file leaf-file-name="word.pyw" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/word.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
+            <state relative-caret-position="729">
               <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
               <folding>
                 <element signature="e#23#45#0" expanded="true" />
@@ -84,11 +138,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ppoint.pyw" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ppoint.pyw" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/ppoint.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="540">
               <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="olook.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/olook.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+              <folding>
+                <element signature="e#23#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estock.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/estock.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="569">
+              <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+              <folding>
+                <element signature="e#23#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="outlook_edit.pyw" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/outlook_edit.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+              <folding>
+                <element signature="e#23#73#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Anaconda3/Lib/tkinter/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30456">
+              <caret line="1130" column="0" selection-start-line="1130" selection-start-column="0" selection-end-line="1130" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -97,7 +197,7 @@
       <file leaf-file-name="get_slickdeals.py" pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/PycharmProjects/desktop/get_slickdeals.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="297">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
@@ -127,6 +227,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,6 +269,9 @@
         <option value="$PROJECT_DIR$/word.pyw" />
         <option value="$PROJECT_DIR$/excel.pyw" />
         <option value="$PROJECT_DIR$/ppoint.pyw" />
+        <option value="$PROJECT_DIR$/olook.pyw" />
+        <option value="$PROJECT_DIR$/estock.pyw" />
+        <option value="$PROJECT_DIR$/outlook_edit.pyw" />
       </list>
     </option>
   </component>
@@ -181,14 +287,14 @@
     <option name="width" value="1938" />
     <option name="height" value="1048" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -242,61 +348,7 @@
       <recent name="C:\Users\asurin\develop\core_python" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.ppoint.pyw">
-    <configuration default="false" name="excel.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="core_python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/excel.pyw" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="get_slickdeals" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/desktop" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="core_python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/desktop/get_slickdeals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="test_win32api" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Anaconda3/Lib/site-packages/win32/test" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="core_python" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$USER_HOME$/Anaconda3/Lib/site-packages/win32/test/test_win32api.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.outlook_edit.pyw">
     <configuration default="false" name="word.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -329,6 +381,60 @@
       <module name="core_python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ppoint.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="olook.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="core_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/olook.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="estock.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="core_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/estock.pyw" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <method />
+    </configuration>
+    <configuration default="false" name="outlook_edit.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="core_python" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/outlook_edit.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
@@ -547,9 +653,9 @@
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="" />
+      <option name="SDK_HOME" value="C:\Users\asurin\Anaconda3\python.exe" />
       <option name="WORKING_DIRECTORY" value="" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="core_python" />
@@ -580,19 +686,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Python.default" />
       <item index="1" class="java.lang.String" itemvalue="Python.ushuffle_mongo" />
-      <item index="2" class="java.lang.String" itemvalue="Python.excel.pyw" />
-      <item index="3" class="java.lang.String" itemvalue="Python.get_slickdeals" />
-      <item index="4" class="java.lang.String" itemvalue="Python.test_win32api" />
-      <item index="5" class="java.lang.String" itemvalue="Python.word.pyw" />
-      <item index="6" class="java.lang.String" itemvalue="Python.ppoint.pyw" />
+      <item index="2" class="java.lang.String" itemvalue="Python.word.pyw" />
+      <item index="3" class="java.lang.String" itemvalue="Python.ppoint.pyw" />
+      <item index="4" class="java.lang.String" itemvalue="Python.olook.pyw" />
+      <item index="5" class="java.lang.String" itemvalue="Python.estock.pyw" />
+      <item index="6" class="java.lang.String" itemvalue="Python.outlook_edit.pyw" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.ppoint.pyw" />
-        <item index="1" class="java.lang.String" itemvalue="Python.word.pyw" />
-        <item index="2" class="java.lang.String" itemvalue="Python.excel.pyw" />
-        <item index="3" class="java.lang.String" itemvalue="Python.test_win32api" />
-        <item index="4" class="java.lang.String" itemvalue="Python.get_slickdeals" />
+        <item index="0" class="java.lang.String" itemvalue="Python.outlook_edit.pyw" />
+        <item index="1" class="java.lang.String" itemvalue="Python.estock.pyw" />
+        <item index="2" class="java.lang.String" itemvalue="Python.olook.pyw" />
+        <item index="3" class="java.lang.String" itemvalue="Python.ppoint.pyw" />
+        <item index="4" class="java.lang.String" itemvalue="Python.word.pyw" />
       </list>
     </recent_temporary>
   </component>
@@ -620,12 +726,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.50208336" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32932165" sideWeight="0.49791667" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39934355" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -633,6 +738,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -649,32 +755,11 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="4" />
+      <option name="time" value="9" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2016.1/system/python_stubs/-53017277/_socket.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="546" column="8" selection-start-line="546" selection-start-column="8" selection-end-line="546" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/getLatestFTP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="13" column="48" selection-start-line="13" selection-start-column="48" selection-end-line="13" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tsTclnt3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="16" selection-start-line="0" selection-start-column="0" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tsTserv3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="611">
@@ -791,7 +876,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="18" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -799,7 +883,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="6" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -807,7 +890,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="324">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,7 +897,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -823,16 +904,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-          <folding>
-            <element signature="e#23#59#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Anaconda3/Lib/tkinter/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-374">
-          <caret line="2188" column="8" selection-start-line="2188" selection-start-column="8" selection-end-line="2188" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -840,9 +911,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1836">
           <caret line="70" column="0" selection-start-line="70" selection-start-column="0" selection-end-line="70" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#32#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -864,9 +932,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-          <folding>
-            <element signature="e#23#64#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -874,9 +939,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="5" column="10" selection-start-line="5" selection-start-column="10" selection-end-line="5" selection-end-column="10" />
-          <folding>
-            <element signature="e#53#67#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,7 +946,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="15" column="49" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="49" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +953,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-891">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -900,13 +960,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-162">
           <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <marker date="1474035664648" expanded="true" signature="100:1173" placeholder="..." />
-            <marker date="1474035664648" expanded="true" signature="154:1173" placeholder="..." />
-            <marker date="1474035664648" expanded="true" signature="1195:1338" placeholder="..." />
-            <marker date="1474035664648" expanded="true" signature="1217:1338" placeholder="..." />
-            <marker date="1474035664648" expanded="true" signature="1351:1388" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -914,7 +967,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="229">
           <caret line="43" column="19" selection-start-line="43" selection-start-column="19" selection-end-line="43" selection-end-column="19" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -922,9 +974,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="26" selection-end-column="14" />
-          <folding>
-            <element signature="e#23#61#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -932,9 +981,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="526">
           <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="e#24#55#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -942,19 +988,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
-          <folding>
-            <element signature="e#23#63#0" expanded="true" />
-            <marker date="1474058866359" expanded="true" signature="2299:2420" placeholder="CREATE TABLE... users" />
-            <marker date="1474058866359" expanded="true" signature="2560:2576" placeholder="DROP TABLE u... " />
-            <marker date="1474058866359" expanded="true" signature="3070:3103" placeholder="INSERT INTO users... " />
-            <marker date="1474058866359" expanded="true" signature="3231:3267" placeholder="INSERT INTO users... " />
-            <marker date="1474058866359" expanded="true" signature="3544:3584" placeholder="UPDATE users... " />
-            <marker date="1474058866359" expanded="true" signature="3544:3586" placeholder="UPDATE users... " />
-            <marker date="1474058866359" expanded="true" signature="3689:3720" placeholder="DELETE FROM " />
-            <marker date="1474058866359" expanded="true" signature="3689:3722" placeholder="DELETE FROM " />
-            <marker date="1474058866359" expanded="true" signature="3689:3729" placeholder="DELETE FROM " />
-            <marker date="1474058866359" expanded="true" signature="3791:3810" placeholder="SELECT * FRO... users" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -962,7 +995,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="1589" column="8" selection-start-line="1589" selection-start-column="8" selection-end-line="1589" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -970,9 +1002,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
           <caret line="99" column="25" selection-start-line="99" selection-start-column="25" selection-end-line="99" selection-end-column="25" />
-          <folding>
-            <element signature="e#23#63#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -980,7 +1009,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -988,7 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="712" column="8" selection-start-line="712" selection-start-column="8" selection-end-line="712" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -996,7 +1023,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="61857">
           <caret line="2355" column="0" selection-start-line="2355" selection-start-column="0" selection-end-line="2355" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1004,9 +1030,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-392">
           <caret line="47" column="24" selection-start-line="47" selection-start-column="24" selection-end-line="47" selection-end-column="24" />
-          <folding>
-            <element signature="e#23#63#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1014,16 +1037,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1468003247984" expanded="true" signature="1160:1208" placeholder="select title... entries" />
-            <marker date="1468003247984" expanded="true" signature="1451:1498" placeholder="INSERT INTO entries... " />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/PycharmProjects/desktop/get_slickdeals.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="297">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
@@ -1051,15 +1070,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="472">
           <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
-          <folding>
-            <element signature="e#23#45#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ushuffle_so.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
+        <state relative-caret-position="2160">
           <caret line="85" column="0" selection-start-line="85" selection-start-column="0" selection-end-line="85" selection-end-column="0" />
           <folding>
             <element signature="e#23#63#0" expanded="true" />
@@ -1069,7 +1085,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/word.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
+        <state relative-caret-position="729">
           <caret line="30" column="19" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
           <folding>
             <element signature="e#23#45#0" expanded="true" />
@@ -1079,9 +1095,47 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/ppoint.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="540">
           <caret line="23" column="32" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/olook.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="26" column="19" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Anaconda3/Lib/tkinter/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30456">
+          <caret line="1130" column="0" selection-start-line="1130" selection-start-column="0" selection-end-line="1130" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estock.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="569">
+          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
+          <folding>
+            <element signature="e#23#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/outlook_edit.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
+          <folding>
+            <element signature="e#23#73#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
